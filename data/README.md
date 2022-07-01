@@ -1,14 +1,12 @@
 # Data and Manipulation
 
-- work_out_threads_2ch.ipynb - created a dataset of the form Comment - Reply; preprocessing of 2ch. Concatenated data from 4 datasets: prodota.ru, 2ch, open subtitles, fiction.
--	subtitles.ipynb – code to create a dataset of subtitles created from https://disk.yandex.ru/d/TPraG0bLP6UuVw 
+- work_out_threads_2ch.ipynb - created [a dataset of the form Comment - Reply](https://disk.yandex.ru/d/RhtQtoIvWrvN5Q); preprocessing of [the 2ch dataset](https://disk.yandex.ru/d/08SWZXGSS2c-mQ). Concatenated data from 4 datasets: prodota.ru, 2ch, open subtitles, fiction.
+-	subtitles.ipynb – code to create [a dataset of subtitles](https://disk.yandex.ru/d/8x7m_0a3fDapaQ) created from https://disk.yandex.ru/d/TPraG0bLP6UuVw 
 - prodota_crauler.ipynb - crauler of prodota.ru 
-- prodota_clean.ipynb - preprocessing of dataset from prodota.ru
+- prodota_clean.ipynb - preprocessing of [a dataset from prodota.ru](https://disk.yandex.ru/d/SP-VSomE_fhJgQ)
 - classic_literature.ipynb - code to create a dataset of fiction from https://raw.githubusercontent.com/Koziev/NLP_Datasets/master/Conversations/Data/ru.conversations.txt
 - load_threads_2ch
   -	all_boards.txt - the boards of 2ch we took
   -	load_threads_2ch.ipynb – the code to save the threads
 
-
-
-
+Link to data: https://disk.yandex.ru/d/Xe52jZLB1n3acA 
