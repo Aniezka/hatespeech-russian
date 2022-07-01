@@ -13,7 +13,15 @@
 Link to data: https://disk.yandex.ru/d/Xe52jZLB1n3acA 
 
 ## STEP 2
-
 - preprocessing_dataset.ipynb - preprocessing of the created dataset on the STEP 1
 
 Link to data: https://disk.yandex.ru/d/wt_YflsLYl95PQ
+
+## STEP 3
+- toxicity_classifier.ipynb - code with toxicity classifier
+- concatenate_datasets.ipynb - restore the original Comment/Reply for each pair of preprocessed Comment/Reply. 
+
+Link to data: https://disk.yandex.ru/d/v9XIZwPKrX_Hgw
+
+## STEP 4
+-
