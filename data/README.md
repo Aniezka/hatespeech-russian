@@ -1,5 +1,6 @@
 # Data and Manipulation
 
+## STEP 1
 - work_out_threads_2ch.ipynb - created [a dataset of the form Comment - Reply](https://disk.yandex.ru/d/RhtQtoIvWrvN5Q); preprocessing of [the 2ch dataset](https://disk.yandex.ru/d/08SWZXGSS2c-mQ). Concatenated data from 4 datasets: prodota.ru, 2ch, open subtitles, fiction.
 -	subtitles.ipynb – code to create [a dataset of subtitles](https://disk.yandex.ru/d/8x7m_0a3fDapaQ) created from https://disk.yandex.ru/d/TPraG0bLP6UuVw 
 - prodota_crauler.ipynb - crauler of prodota.ru 
@@ -10,3 +11,9 @@
   -	load_threads_2ch.ipynb – the code to save the threads
 
 Link to data: https://disk.yandex.ru/d/Xe52jZLB1n3acA 
+
+## STEP 2
+
+- preprocessing_dataset.ipynb - preprocessing of the created dataset on the STEP 1
+
+Link to data: https://disk.yandex.ru/d/wt_YflsLYl95PQ
