@@ -31,3 +31,10 @@ Link to data: https://disk.yandex.ru/d/I6TXQVEMFE539A
 
 ## STEP 5
 - dialogues.ipynb - code to get 4 different continuations of Comment from [a generative dialogue model](https://api.aicloud.sbercloud.ru/public/v2/boltalka/docs#/default/predict_boltalka_predict_post) 
+
+Link to data: https://disk.yandex.ru/d/Yf5ur-en-U58wA
+
+## STEP 6
+- work_out_groups.ipynb – ноутбук, в котором работаем с файлами, которые вручную разметила Аня Суханова.
+
+Link to data: 
