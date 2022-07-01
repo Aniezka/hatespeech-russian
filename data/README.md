@@ -35,6 +35,6 @@ Link to data: https://disk.yandex.ru/d/I6TXQVEMFE539A
 Link to data: https://disk.yandex.ru/d/Yf5ur-en-U58wA
 
 ## STEP 6
-- work_out_groups.ipynb – ноутбук, в котором работаем с файлами, которые вручную разметила Аня Суханова.
+- work_out_groups.ipynb – code to concatenate automatically and manually curated hate speech utterances.
 
-Link to data: 
+Link to data: https://disk.yandex.ru/d/qowkOOQB79GFHA
