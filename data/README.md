@@ -24,6 +24,8 @@ Link to data: https://disk.yandex.ru/d/wt_YflsLYl95PQ
 Link to data: https://disk.yandex.ru/d/v9XIZwPKrX_Hgw
 
 ## STEP 4
+- find_new_words.ipynb - code to find themes' specific words upon extracted data. The most common Noun roots were used.
+- synonyms_vecotres.ipynb - code to obtain synonyms for following key_words_match script with the help of word-to-vec model.
 - key_words_match.ipynb – code to extract identifiers of hate speech.
 - concat_key_words.ipynb – code to concatenate lists (Comment/Reply) of identifiers of hate speech for each target group.
 
