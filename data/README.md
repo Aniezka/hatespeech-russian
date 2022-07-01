@@ -30,5 +30,4 @@ Link to data: https://disk.yandex.ru/d/v9XIZwPKrX_Hgw
 Link to data: https://disk.yandex.ru/d/I6TXQVEMFE539A
 
 ## STEP 5
-
-
+- dialogues.ipynb - code to get 4 different continuations of Comment from [a generative dialogue model](https://api.aicloud.sbercloud.ru/public/v2/boltalka/docs#/default/predict_boltalka_predict_post) 
